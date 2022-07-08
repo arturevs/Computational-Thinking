@@ -1,0 +1,9 @@
+Repetições - Aplicação financeira
+
+Faça um programa que calcule o retorno de um investimento financeiro fazendo as contas mês a mês. O programa deve ler:
+- O valor inicial da inversão
+- A taxa de juros mensal
+- O número de meses considerados na simulação
+
+Dica1: Os juros do mês devem ser calculados de acordo com o novo total obtido no mês anterior. 
+
