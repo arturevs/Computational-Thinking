@@ -1,0 +1,6 @@
+Repetições - Número perfeito
+﻿
+Um número é dito perfeito se é igual à soma de todos os seus divisores
+próprios (todos os divisores menos ele). Por exemplo, como os divisores
+próprios de 6 são 1, 2, 3 e e 1 + 2 + 3 = 6, 6 é perfeito. Escreva um programa
+que diga se o número é perfeito ou não.
